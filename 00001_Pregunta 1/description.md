@@ -1,0 +1,1 @@
+> Señale cuál de las siguientes afirmaciones es verdadera respecto a la oferta monetaria (MS):

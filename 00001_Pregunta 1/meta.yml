@@ -1,0 +1,24 @@
+---
+tags: []
+layout: input_right
+editor: single_choice
+type: problem
+extra_visible: false
+language: text
+teacher_info: ''
+manual_evaluation: false
+choices:
+- value: A) Es similar e inversamente proporcional a la variación de los precios,
+    cuando V y Q se mantienen constantes.
+  checked: false
+- value: B) Las operaciones cambiarías del BCRP pueden alterar el multiplicador bancario
+    y por tanto a MS.
+  checked: false
+- value: C) Un aumento de la tasa de encaje legal por parte de la autoridad monetaria
+    reduce la base monetaria y, por lo cual, absorbe MS.
+  checked: false
+- value: D) Una menor preferencia por la liquidez eleva el multiplicador e inyecta
+    dinero (MS) en la economía.
+  checked: true
+- value: E) Más de una es correcta.
+  checked: false
