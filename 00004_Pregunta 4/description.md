@@ -1,0 +1,1 @@
+> Sobre la oferta agregada (OA):

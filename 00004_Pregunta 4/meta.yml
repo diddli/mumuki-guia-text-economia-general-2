@@ -1,0 +1,24 @@
+---
+tags: []
+layout: input_right
+editor: single_choice
+type: problem
+extra_visible: false
+language: text
+teacher_info: ''
+manual_evaluation: false
+choices:
+- value: A) Presenta, según los keynesianos, salarios nominales rígidos en el corto
+    plazo.
+  checked: false
+- value: B) Para los clásicos, los salarios y los precios son flexible en el largo
+    plazo.
+  checked: false
+- value: C) En el largo plazo, los cambios en la demanda agregada impactarán únicamente
+    sobre el nivel de los precios y no en la producción.
+  checked: false
+- value: D) En el corto plazo, el impacto de los cambios en la demanda agregada dependerá
+    si se trata de un caso keynesiano básico o extremo.
+  checked: false
+- value: E) Todas las anteriores.
+  checked: true
