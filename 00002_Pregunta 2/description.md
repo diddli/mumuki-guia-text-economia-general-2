@@ -1,0 +1,1 @@
+> Señale cuál de las siguientes afirmaciones es verdadera respecto a la demanda de dinero (MD):
