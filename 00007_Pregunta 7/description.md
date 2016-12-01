@@ -1,0 +1,1 @@
+> De acuerdo a la curva LM, indique la afirmación falsa:
