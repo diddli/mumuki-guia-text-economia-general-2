@@ -1,0 +1,1 @@
+> De acuerdo a la curva IS:

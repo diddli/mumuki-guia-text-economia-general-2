@@ -1,0 +1,23 @@
+---
+tags: []
+layout: input_right
+editor: single_choice
+type: problem
+extra_visible: false
+language: text
+teacher_info: ''
+manual_evaluation: false
+choices:
+- value: A) Muestra una relación entre producción y desempleo.
+  checked: false
+- value: B) Un aumento de la demanda agregada genera siempre un aumento de los precios
+    y de la producción.
+  checked: false
+- value: C) En el corto plazo existe una disyuntiva (trade-off) entre inflación y
+    desempleo.
+  checked: true
+- value: D) En el lago plazo existe una disyuntiva entre la inflación esperada y el
+    desempleo natural.
+  checked: false
+- value: E) La curva de Phillips nunca se desplaza en el corto plazo.
+  checked: false
