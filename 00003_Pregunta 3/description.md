@@ -1,0 +1,1 @@
+> Respecto a la demanda agregada (DA) es correcto afirmar que:
