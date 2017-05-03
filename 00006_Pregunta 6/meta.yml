@@ -8,16 +8,21 @@ language: text
 teacher_info: ''
 manual_evaluation: false
 choices:
-- value: A) Cuanto mayor es la sensibilidad de la inversión a la tasa de interés,
+- !ruby/hash:BSON::Document
+  value: A) Cuanto mayor es la sensibilidad de la inversión a la tasa de interés,
     más vertical es la curva IS.
   checked: false
-- value: B) Una menor propensión marginal a consumir hará que la curva IS sea más
+- !ruby/hash:BSON::Document
+  value: B) Una menor propensión marginal a consumir hará que la curva IS sea más
     horizontal.
   checked: false
-- value: C) Un aumento de la tasa impositiva (t) provocará que la IS sea más empinada.
+- !ruby/hash:BSON::Document
+  value: C) Un aumento de la tasa impositiva (t) provocará que la IS sea más empinada.
   checked: true
-- value: D) Es afectada por las políticas monetarias.
+- !ruby/hash:BSON::Document
+  value: D) Es afectada por las políticas monetarias.
   checked: false
-- value: E) Una expansión fiscal siempre generará Crowding Out debido a la caída del
+- !ruby/hash:BSON::Document
+  value: E) Una expansión fiscal siempre generará Crowding Out debido a la caída del
     gasto privado.
   checked: false

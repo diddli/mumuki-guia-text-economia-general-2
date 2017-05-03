@@ -8,17 +8,22 @@ language: text
 teacher_info: ''
 manual_evaluation: false
 choices:
-- value: A) Cuanto mayor es la sensibilidad de la demanda de dinero a la tasa de interés,
+- !ruby/hash:BSON::Document
+  value: A) Cuanto mayor es la sensibilidad de la demanda de dinero a la tasa de interés,
     la curva LM será más plana.
   checked: false
-- value: B) Una tasa de interés muy baja genera una LM horizontal (trampa de liquidez).
+- !ruby/hash:BSON::Document
+  value: B) Una tasa de interés muy baja genera una LM horizontal (trampa de liquidez).
   checked: false
-- value: C) Una mayor sensibilidad de la demanda de dinero al ingreso volverá la curva
+- !ruby/hash:BSON::Document
+  value: C) Una mayor sensibilidad de la demanda de dinero al ingreso volverá la curva
     LM más vertical.
   checked: false
-- value: D) Cuando la inversión a la tasa de interés, la política monetaria es ineficaz
+- !ruby/hash:BSON::Document
+  value: D) Cuando la inversión a la tasa de interés, la política monetaria es ineficaz
     para cambiar la producción.
   checked: false
-- value: E) Representa el equilibrio en el mercado de dinero, en donde la tasa de
+- !ruby/hash:BSON::Document
+  value: E) Representa el equilibrio en el mercado de dinero, en donde la tasa de
     interés es la variable exógena.
   checked: true

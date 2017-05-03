@@ -8,14 +8,19 @@ language: text
 teacher_info: ''
 manual_evaluation: false
 choices:
-- value: A) Una elevada inflación esperada puede contraer la curva de la demanda agregada.
+- !ruby/hash:BSON::Document
+  value: A) Una elevada inflación esperada puede contraer la curva de la demanda agregada.
   checked: false
-- value: B) Tiene pendiente negativa por el efecto de los saldos reales.
+- !ruby/hash:BSON::Document
+  value: B) Tiene pendiente negativa por el efecto de los saldos reales.
   checked: false
-- value: C) No generan ningún impacto sobre la inflación, la producción o el desempleo.
+- !ruby/hash:BSON::Document
+  value: C) No generan ningún impacto sobre la inflación, la producción o el desempleo.
   checked: false
-- value: D) Depende de las políticas económicas del gobierno (fiscales, monetarias
+- !ruby/hash:BSON::Document
+  value: D) Depende de las políticas económicas del gobierno (fiscales, monetarias
     y cambiarias).
   checked: false
-- value: E) Más de una es correcta.
+- !ruby/hash:BSON::Document
+  value: E) Más de una es correcta.
   checked: true
